@@ -4,19 +4,19 @@ import "./App.css";
 
 const products = [
   {
-    id: "1",
+    id: "01",
     name: "Laptop",
     price: 700,
     image: "/images/product1.jpg",
   },
   {
-    id: "2",
+    id: "02",
     name: "Headphones",
     price: 50,
     image: "/images/product2.jpg",
   },
   {
-    id: "3",
+    id: "03",
     name: "Smartphone",
     price: 500,
     image: "/images/product3.jpg",
